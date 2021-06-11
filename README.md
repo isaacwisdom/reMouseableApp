@@ -21,8 +21,9 @@ Download the lastest ReMouseableApp.script from github, open in in AppleScript a
 your Applications folder.
 For the script to work correctly, you'll have to fix some permissions:
 1. Go to `System Preferences -> Security & Privacy -> Privacy -> Full Disk Access` and click the checkbox next to reMouseableApp. If it doesn't appear in the list, 
-   you can add it manually by clicking the '+' button. *I'm aware this is a security risk, but it's the only way I could figure out how to give the script access to
-   the temporary file it creates to get the output from the reMouseable executable. This will hopefully be changed in the future.
+   you can add it manually by clicking the '+' button. 
+   >*I'm aware this is a security risk, but it's the only way I could figure out how to give the script access to*
+   >*the temporary file it creates to get the output from the reMouseable executable. This will hopefully be changed in the future.*
 2. Go to `System Preferences -> Security & Privacy -> Privacy -> Accessibility` and click the checkbox next to Terminal. This is necesarry for the reMouseable
    executable to control your pointer. You may have already done this when installing reMouseable.
 3. Go to `System Preferences -> Notifications -> ReMouseableApp` and set the notification settings as you'd like. A notification is displayed when reMouseable has
