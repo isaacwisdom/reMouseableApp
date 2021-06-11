@@ -8,7 +8,7 @@ set SSHport to ":22"
 #SSH password of remarkable found in Help > Copyright and Licenses
 set storedSSHpassword to "<put your password here>"
 #set to true for passwordless entry using ssh keys. Default is false
-set useSSHauthSock to true
+set useSSHauthSock to false
 #if useSSHauthSock = true, this must be set. Default is "$SSH_AUTH_SOCK"
 set sshSocket to "$SSH_AUTH_SOCK"
 --------------------------------------------------------
