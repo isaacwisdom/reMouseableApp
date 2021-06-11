@@ -28,3 +28,5 @@ For the script to work correctly, you'll have to fix some permissions:
    executable to control your pointer. You may have already done this when installing reMouseable.
 3. Go to `System Preferences -> Notifications -> ReMouseableApp` and set the notification settings as you'd like. A notification is displayed when reMouseable has
    started succesfully and is running, I reccomened using `Banners`, and checking `Play sound for notifications` only. reMouseableApp may only appear here after your first succesful run.
+##Disclosure
+This is both my first github project and my first time working with AppleScript, so forgive me if anything is wonky or inefficient! If there are any problems, feel free to open an issue or pull request.
