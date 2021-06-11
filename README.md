@@ -17,7 +17,7 @@ reMouseable
 ```
 Go to `System Preferences -> Security & Privacy -> General` and click `Open Anyways`.
 
-Download the lastest ReMouseableApp.script from github, open in in AppleScript and change the User Settings appropiately. Export the script as an application in
+Go to https://github.com/isaacwisdom/reMouseableApp/releases/latest, download and unzip the sourcecode file. Open the file reMouseableApp.script in in AppleScript and change the User Settings appropiately. Export the script as an application in
 your Applications folder.
 For the script to work correctly, you'll have to fix some permissions:
 1. Go to `System Preferences -> Security & Privacy -> Privacy -> Full Disk Access` and click the checkbox next to reMouseableApp. If it doesn't appear in the list, 
