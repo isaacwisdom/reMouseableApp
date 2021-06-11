@@ -27,4 +27,4 @@ For the script to work correctly, you'll have to fix some permissions:
 2. Go to `System Preferences -> Security & Privacy -> Privacy -> Accessibility` and click the checkbox next to Terminal. This is necesarry for the reMouseable
    executable to control your pointer. You may have already done this when installing reMouseable.
 3. Go to `System Preferences -> Notifications -> ReMouseableApp` and set the notification settings as you'd like. A notification is displayed when reMouseable has
-   started succesfully and is running, I reccomened using <Banners> and <Play sound for notifications> only. reMouseableApp may only appear here after your first succesful run.
+   started succesfully and is running, I reccomened using `Banners`, and checking `Play sound for notifications` only. reMouseableApp may only appear here after your first succesful run.
